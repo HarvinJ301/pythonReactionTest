@@ -14,4 +14,6 @@ TL:DR is that the code takes a look at the colour of the pixel at a certain area
 The your best is the best score the code achieved after a while of running it 00.006 - truly insane. 
 <br/>
 This image shows which light pixel we are looking at to get the information of the colour since it's the first light to change colour. 
+<br/>
+
 ![alt text](readme_resources/f1%20page.png)
